@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GroupNotification.Infra/1.0.0": {
+        "dependencies": {
+          "GroupNotification.Core": "1.0.0"
+        },
+        "runtime": {
+          "GroupNotification.Infra.dll": {}
+        }
+      },
+      "GroupNotification.Core/1.0.0": {
+        "runtime": {
+          "GroupNotification.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupNotification.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupNotification.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

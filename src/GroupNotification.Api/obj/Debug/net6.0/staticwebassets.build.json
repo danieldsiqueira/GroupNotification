@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uDUFTZrxaFPdOFO75zYhRL7yVCkexKrG05CX2htHNXM=",
+  "Source": "GroupNotification.Api",
+  "BasePath": "_content/GroupNotification.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

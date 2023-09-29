@@ -1,0 +1,12 @@
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/bin/Debug/net6.0/GroupNotification.Core.deps.json
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/bin/Debug/net6.0/GroupNotification.Core.dll
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/bin/Debug/net6.0/GroupNotification.Core.pdb
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.csproj.AssemblyReference.cache
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.AssemblyInfoInputs.cache
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.AssemblyInfo.cs
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.csproj.CoreCompileInputs.cache
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.dll
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/refint/GroupNotification.Core.dll
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/GroupNotification.Core.pdb
+/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Core/obj/Debug/net6.0/ref/GroupNotification.Core.dll

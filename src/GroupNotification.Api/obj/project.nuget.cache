@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0M55k2m/L+oN7WDnodhSM7g6iNvvkT+YMJ0z5x/6C3aMAwYo43FDCuVvRMl3DnHfnUkXFdNqN2jW7825FEg65A==",
+  "success": true,
+  "projectFilePath": "/home/daniel/Daniel/Projects/dotnet/GroupNotification/src/GroupNotification.Api/GroupNotification.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/daniel/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/daniel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/daniel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/daniel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
